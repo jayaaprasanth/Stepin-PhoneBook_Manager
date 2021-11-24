@@ -9,7 +9,7 @@
  * 
  */
 
-#ifndef PHONEBOOK_H
+#ifndef PHONEBOOK_1
 #define PHONEBOOK_H
 
 /**
